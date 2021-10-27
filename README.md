@@ -1,4 +1,4 @@
-# Scala Installer for Linux
+# Scala 3 Installer for Linux
 
 A simple bash script to install/uninstall latest version Scala 3 and it's dependencies.
 
