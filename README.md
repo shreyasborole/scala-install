@@ -1,10 +1,10 @@
 # Scala 3 Installer for Linux
 
-A simple bash script to install/uninstall latest version Scala 3 and it's dependencies.
+A simple bash script to install/uninstall latest version Scala 3 and it's required dependencies.
 
 ## Getting Started
 
-The need for such a script is out of frustration to install Scala 3 using their official installer (Coursier). Although there was existing repositories of AUR and RPM those are distro-specific. This script makes it easier to install/uninstall Scala 3 with just one-command on almost any distros. 
+Scala 3 is available in existing repositories of AUR and RPM, but those are distro-specific. This script makes it easier to install/uninstall Scala 3 with just one-command on almost any distros. 
 
 ### Prerequisites
 
